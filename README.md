@@ -1,3 +1,3 @@
 # JavaScript-Pacman
 
-![Preview](packman.PNG?raw=true)
+![Preview](pacman.PNG?raw=true)
